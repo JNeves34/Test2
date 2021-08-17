@@ -37,3 +37,6 @@
            git pull
 	   --------------------------------------
 	   Foi alterado por outro programador
+	   ---------------------------------
+	   Send computer
+	   
