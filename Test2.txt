@@ -31,4 +31,7 @@
              se for primeira vez, tens que configurar:
              git config user.name "JNeves"
              git config user.email "jneves@hotmail.com"
-
+            git remove -v 
+            git remote add origin https://github.com/JNeves34/Test2.git
+            git push -u origin master 
+           git pull
