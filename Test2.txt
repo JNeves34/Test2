@@ -35,5 +35,4 @@
             git remote add origin https://github.com/JNeves34/Test2.git
             git push -u origin master 
            git pull
-	   --------------------------------------
-	   teste
+           
