@@ -1,0 +1,34 @@
+ qual é .NET Core .NET Framework CRL JIT Serve para desenvolvimento de aplicações qual é .NET qual é .NET Standard qual é C# qual é .NET Framework teste unitário conhecer bem visual studio todas as teclas window to linux wpf azure one.net .core 5 mauri
+        Install: Virtual studio, visual code, sql server, postman app , node.js, Angular JS npm install -g @angular/cli ----------------------------------- Tracking the work : Scrum, Kanban System architectures: Micro services MVC Web services: Soap,
+        rest API Deployment Testing https://github.com/JNeves34/JNevesGit.git …or create a new repository on the command line echo "# JNeves34" >> README.md git init git add README.md git commit -m "first commit" git branch -M main git remote add origin
+        https://github.com/JNeves34/JNeves34.git git push -u origin main …or push an existing repository from the command line git remote add origin https://github.com/JNeves34/JNeves34.git git branch -M main git push -u origin main clear--> limpar linha
+        de comandocd.. 
+		git --> ver se existe git, e mais informações de comando bsasdico 
+		cd.. --> recurar, voltar atras cd --> avançar ou entrar : 
+		cd projectos 
+		mkdir --> criar uma pasta : mkdir nome de pasta 
+		dir --> dá toda informaçãod e pasta e image
+        pushd --> Mudar dirrectorio de c: para D: na linha de comando C:\Temp>pushd D:\some\folder D:\some\folder>popd C:\Temp>_ ou documento que contém no lugar clone : 
+		git clone https://github.com/JNeves34/JNevesGit.
+		git init ----------------- add; mv;
+        restore; rm; sparse-checkout; bisect diff grep log show status ------------------ branch; commit; merge; rebase; reset; switch; fetch; pull; push; ----------------https://github.com/JNeves34/JNeves34 J2L Oficial vaz672029@gmail.com GIT ---> Jose
+        Cruz jcruz02981@gmail.com ----> alteração de ficheiro -- visual code foi alterado git show --> para mostrar as diferanpça de alteração git show c4b4ce174e5b0f666fdc10651050c64e3f22b5fb git status --> para saber os estados
+        -- Posso criar a pasta e ficheiros type nul > your_file.txt 
+        touch index.html app.js style.css -- 
+             git branch --> mostar a linha de tempo , onde
+			 git checkout 
+             git merge "nome de branch"
+             git branch -D "nomde de branch" eliminar branch na linha de tempo
+             git init
+             git add
+             git commit 
+             git log
+             git show
+             -----------------------------
+             git remote add origin     https://github.com/JNeves34/JNeves34.git
+             git remote -v --> Para ver os reporsitorios remotos
+             git push --> de minha maquina para nuvem 
+             se for primeira vez, tens que configurar:
+             git config user.name "JNeves"
+             git config user.email "jneves@hotmail.com"
+
