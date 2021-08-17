@@ -50,3 +50,7 @@ Send cloud
 	   
 Send cloud 
 -----------------------
+Como enviar para GitHub 
+git add
+git commit
+git push
