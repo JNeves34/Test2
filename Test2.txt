@@ -54,3 +54,9 @@ Como enviar para GitHub
 git add
 git commit
 git push
+-------------------
+Como senviar para minha maquica 
+git add
+git commit
+pit pull
+
