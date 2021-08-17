@@ -54,3 +54,14 @@ Como enviar para GitHub
 git add nome de ficheiro
 git commit -m comentario
 git push
+<<<<<<< HEAD
+=======
+-------------------
+Como senviar para minha maquica 
+git add
+git commit
+pit pull
+---------------------
+send machine  445
+
+>>>>>>> 9a3b671e981acd4f43f6c4e2491655db4cfda622
