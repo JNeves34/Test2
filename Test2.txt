@@ -59,4 +59,6 @@ Como senviar para minha maquica
 git add
 git commit
 pit pull
+---------------------
+send machine
 
