@@ -51,14 +51,6 @@ Send cloud
 Send cloud 
 -----------------------
 Como enviar para GitHub 
-git add
-git commit
+git add nome de ficheiro
+git commit -m comentario
 git push
--------------------
-Como senviar para minha maquica 
-git add
-git commit
-pit pull
----------------------
-send machine
-
